@@ -1,16 +1,15 @@
-### Hi there 👋
++ Christian 
+  - deadinside
+  - d3ad1ns1d3
++ 18 y/o
+#
+proficient in:
 
-<!--
-**d3ad1ns1d3/d3ad1ns1d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![oracle](https://img.shields.io/badge/Java-Proficient-000000?style=for-the-badge&logo=oracle&logoColor=red)
+#
+currently learning: 
 
-Here are some ideas to get you started:
+![rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rusts&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![python](https://img.shields.io/badge/Python-Learning-000000?style=for-the-badge&logo=Python&logoColor=blue)
+#
