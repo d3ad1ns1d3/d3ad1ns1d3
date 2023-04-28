@@ -9,7 +9,9 @@ proficient in:
 #
 currently learning: 
 
-![rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rusts&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![r](https://img.shields.io/badge/R-Learning-000000?style=for-the-badge&logo=r&logoColor=white)
 
 ![python](https://img.shields.io/badge/Python-Learning-000000?style=for-the-badge&logo=Python&logoColor=blue)
 #
